@@ -1,2 +1,2 @@
 version=2.0.0
-path="https://raw.githubusercontent.com/ashishsb27/fota-communication/features/binary.txt"
+path="https://raw.githubusercontent.com/ashishsb27/fota-communication/main/binary.txt"
