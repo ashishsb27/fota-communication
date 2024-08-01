@@ -1,2 +1,2 @@
-version=1.0.1
+version=1.0.0
 path="https://github.com/ashishsb27/fota-communication/blob/features/binary.txt"
