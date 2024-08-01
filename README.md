@@ -1,2 +1,2 @@
 # fota-communication
-Python Script to download files.
+Python Script to download files from Cloud
