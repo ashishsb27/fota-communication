@@ -1,4 +1,4 @@
 versionA=3.2.1
 versionB=1.2.3
 pathA="https://raw.githubusercontent.com/ashishsb27/fota-communication/main/program"
-pathB="https://raw.githubusercontent.com/ashishsb27/fota-communication/main/binary.txt"
+pathB="https://raw.githubusercontent.com/ashishsb27/fota-communication/main/VHMSSampleqmake"
