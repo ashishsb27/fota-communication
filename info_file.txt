@@ -1,3 +1,4 @@
 versionA=3.2.1
 versionB=1.2.3
 path="https://raw.githubusercontent.com/ashishsb27/fota-communication/main/program"
+path=""
