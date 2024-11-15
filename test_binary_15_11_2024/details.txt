@@ -1,0 +1,2 @@
+Encrypting the binary file with a new AES key.
+  
