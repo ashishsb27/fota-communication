@@ -1,0 +1,2 @@
+Here all the ML modles and middleware will be compressed into one file and then encrypted. 
+Secod file will be the encryped binary of the HMI
